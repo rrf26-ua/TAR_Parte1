@@ -1,0 +1,8 @@
+prefix=/workspace/catkin_ws/install
+
+Name: p3_pkg
+Description: Description of p3_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

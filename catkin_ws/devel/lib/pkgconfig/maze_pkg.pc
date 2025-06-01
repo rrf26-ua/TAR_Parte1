@@ -1,0 +1,8 @@
+prefix=/workspace/catkin_ws/devel
+
+Name: maze_pkg
+Description: Description of maze_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
